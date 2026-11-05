@@ -1,0 +1,8 @@
+{
+  "name": "xCreate",
+  "description": "A magical story generator for kids using Gemini for text, speech, and illustrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
